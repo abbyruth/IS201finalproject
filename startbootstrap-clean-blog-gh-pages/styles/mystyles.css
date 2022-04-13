@@ -1,0 +1,35 @@
+h2{
+    font-style: italic;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+h1{
+    color:aliceblue
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+.override1{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.override2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:azure;
+    text-decoration: underline;
+    font-size: smaller;
+}
+body{
+    background-color: aliceblue;
+}
+li{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.centertext{
+    text-align: center;
+}
